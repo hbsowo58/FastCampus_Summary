@@ -7,7 +7,7 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/0406.md"> 4월6일 html 관한 몇가지 내용 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/0407.md"> 4월7일 파비콘 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/0408.md"> 4월8일 async & defer 속성 <br>
-  <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/0409.md"> 4월9일 1주차  속성 <br>
+  <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/0409.md"> 4월9일 1주차 틀린것  <br>
   
 
 
