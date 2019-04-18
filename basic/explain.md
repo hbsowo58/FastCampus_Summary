@@ -18,7 +18,7 @@ html파일엔 간단하게 클릭시 콘솔에 실수비교를 하는 코드 인
 반면에 0.015625는 100번 곱해도 올바른 값이 나오는데, 2의 -6승이라 그렇습니다
 알고리즘은
 
-def is_equal(a,b, allowed=0)
-    eq <-2^-52
-    diff = |a-b|
-    return diff <= max(|a|,|b|)*ep*2^allowed입니다.
+def is_equal(a,b, allowed=0) <br>
+    eq <-2^-52   <br>
+    diff = |a-b| <br>
+    return diff <= max(|a|,|b|)*ep*2^allowed입니다. <br>
