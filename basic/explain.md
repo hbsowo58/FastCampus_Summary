@@ -24,3 +24,9 @@ def is_equal(a,b, allowed=0) <br>
     eq <-2^-52   <br>
     diff = |a-b| <br>
     return diff <= max(|a|,|b|)*ep*2^allowed입니다. <br>
+
+2^allowed가 2의 승수로 곱해지는 이유는 cpu최적화(fpu 연산떄문입니다)
+
+
+
+__정밀도란, 10진수 몇자리수 까지 커버가 가능한가이며 자바스크립트에서는 52bit(+1 무조건 1이므로) 10진수 15자리수까지 커버가 가능합니다__
