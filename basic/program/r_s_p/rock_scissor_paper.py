@@ -5,13 +5,6 @@ def get_player_choice():
     get_player_cohice() -> string
     반환값 : "바위" or "가위 | "보"
     """
-
-    # string = input("입력하세요")
-    
-    # while string== "짱" or "깸" or "뽀":
-    #      return string
-    # 조건문을 만들수 있는가 하는 부분
-
     ret = input("당신의 선택은:")
     while ret != "바위" and ret != "가위" and "보" and ret != "보": 
         ret=input("당신의 선택은 :")
@@ -22,16 +15,6 @@ def get_computer_choice():
     get_computer_choice() -> string
     반환값 : "바위" | "가위" "보"
     """
-    # i = random.randint(0, 2)
-    # dic = {'0':'가위', '1':'바위', '2': '보'}
-    # a = i.values()
-    # return a  
-
-    # dic{ 1 : "바위", 2 : "가위", 3: "보"}
-    # computer = random.randint(1, 3)
-    # computer = dic[computer]
-    # return computer
-
     tu=("바위", "가위", "보")
     computer=random.randint(0, 2)
     computer=tu[computer]
@@ -44,17 +27,6 @@ def who_wins(player, com):
             컴퓨터가 이기면 'computer'
             비기면          none
     """
-    # a = player
-    # b = com
-
-    # if a == "가위" and b == "보":
-    #     resul = "플레이어가 이겼습니다."
-    # elif a == "가위" and b == "가위":
-    #     resul = "비겼습니다"
-    # elif a == "가위" and b == "바위":
-    #     resul = "졌습니다"
-    
-    # return resul
 
     if player==com:
         return None
@@ -95,18 +67,6 @@ def check_final_winner(result):
                                'computer'가 2개이상이면 : 'computer'
             그렇지 않다면 , none
     """
-    # r[]
-    # b[]
-    # if result== 'player':
-    #     r.append('player')
-    # elif b.append('computer')
-    
-
-    # if r.count() == 'player':
-    #         return 'player'
-    #     elif r.count() == 'computer':
-    #         return 'computer'
-    #     else: none
 
     print(f"플레이어: {result.count('player')} 승, 컴퓨터: {result.count('computer')} 승")
     if result.count('player') >= 2:
@@ -123,11 +83,6 @@ def play():
     play() -> none
     3판 2선승 가위바위보 게임
     """
-
-    # result_list[]
-    # result_list = play_one()
-    # check_final_winner(result_list)
-
     result_list=[]
     while True:
         result_list.append(play_one())
