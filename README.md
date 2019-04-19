@@ -9,7 +9,7 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0408.md"> 4월8일 async & defer 속성 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0409.md"> 4월9일 1주차 틀린것  <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0410.md"> 4월10일 figure태그  <br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0411.md"> 4월11일 1주차 틀린것  <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0411.md"> 4월11일 news   <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0412.md"> 4월12일 flex  <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0413.md"> 4월13일 animation  <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0414.md"> 4월14일 레이아웃의 변천사  <br>
