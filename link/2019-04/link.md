@@ -15,8 +15,8 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0415.md"> 4월15일 picture  <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0416.md"> 4월16일 벚꽃 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0417.md"> 4월17일 전반적인내용 <br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0418.md"> 4월18일 추상화,실수,python <br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0419.md"> 4월19일 파이썬 자료형,연산 <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0418.md"> 4월18일 추상화,실수,python<br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0419.md"> 4월19일 파이썬 자료형,연산<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0420.md"> 4월20일 파이썬 기초 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0421.md"> 4월21일 scss <br>  
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0422.md"> 4월22일 함수 <br> 
