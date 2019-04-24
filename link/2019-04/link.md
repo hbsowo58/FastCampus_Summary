@@ -18,7 +18,7 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0418.md"> 4월18일 추상화,실수,python<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0419.md"> 4월19일 파이썬 자료형,연산<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0420.md"> 4월20일 파이썬 기초 <br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0421.md"> 4월21일 scss <br>  
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0422.md"> 4월22일 함수 <br> 
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0421.md"> 4월21일 scss<br>  
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0422.md"> 4월22일 함수<br> 
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0423.md"> 4월23일 프로세스vs 스레드 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0424.md"> 4월24일 클래스, 버블소트 , 네트워크<br>
