@@ -24,4 +24,6 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0424.md"> 4월24일 클래스, 버블소트 , 네트워크<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0425.md"> 4월25일 네트워크,퀵소트<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0426.md"> 4월26일 머지소트,스택,큐,링크드리스트 <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0428.md"> 4월28일 값 <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-04/0430.md"> 4월30일 자바스크립트와 ES의 차이 <br>
 
