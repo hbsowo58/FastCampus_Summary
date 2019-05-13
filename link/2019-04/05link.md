@@ -4,3 +4,5 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0507.md"> 5월7일 연산자,조건문,형변환 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0508.md"> 5월8일 스코프,객체 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0509.md"> 5월9일 자바스크립트 별찍기 <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/05010.md"> 5월10일 전역변수 문제점 <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0513.md"> 5월13일 객체 생성, 일급객체, 프로토타입<br>
