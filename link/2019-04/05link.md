@@ -1,8 +1,11 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0501.md"> 5월1일 float에 대하여 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0502.md"> 5월2일  <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0503.md"> 5월3일 변수,연산자 <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0507.md"> 5월4일 객체지향 프로그래밍,객체,프로토타입,프로토타입 체인 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0507.md"> 5월7일 연산자,조건문,형변환 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0508.md"> 5월8일 스코프,객체 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0509.md"> 5월9일 자바스크립트 별찍기 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0510.md"> 5월10일 전역변수 문제점 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0513.md"> 5월13일 객체 생성, 일급객체, 프로토타입<br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0515.md"> 5월15일 객체,this,바인딩,this결정조건<br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0516.md"> 5월16일 number,date,string 객체<br>
