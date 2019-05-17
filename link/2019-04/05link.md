@@ -8,4 +8,5 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0510.md"> 5월10일 전역변수 문제점 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0513.md"> 5월13일 객체 생성, 일급객체, 프로토타입<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0515.md"> 5월15일 객체,this,바인딩,this결정조건<br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0516.md"> 5월16일 number,date,string 객체<br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0516.md"> 5월16일 number,date,string 객체 예습<br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0517.md"> 5월17일 number,date,string 객체 복습<br>
