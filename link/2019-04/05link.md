@@ -11,3 +11,4 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0516.md"> 5월16일 number,date,string 객체 예습<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0517.md"> 5월17일 number,date,string 객체 복습<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0518.md"> 5월18일 프로토타입<br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0518.md"> 5월20일 프로토타입<br>
