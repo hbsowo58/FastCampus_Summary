@@ -22,4 +22,5 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0528.md"> 5월28일 TODO V2<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0529.md"> 5월29일 Ajax,REST<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0530.md"> 5월30일 러버덕<br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-05/0531.md"> 5월31일 Ajax.promise<br>
 
