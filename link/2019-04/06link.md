@@ -8,5 +8,6 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-06/0608.md"> 6일8일  <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-06/0609.md"> 6일9일  <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-06/0610.md"> 6일10일  <br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-06/0610.md"> 6일11일 spa <br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-06/0610.md"> 6일12일  <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-06/0611.md"> 6일11일 spa <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-06/0612.md"> 6일12일 typescript <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/README/2019-06/0613.md"> 6일13일  <br>
