@@ -1,0 +1,60 @@
+<button (click)="isOpen = !isOpen">OPEN</button>
+
+<div class="back-drop" [class.active]="isOpen">
+  <button (click)="isOpen = !isOpen" class="close-btn">X</button>
+  
+  <div class="all-wrpper">
+    
+    <div class="swiper-container gallery-top" #galleryTop [swiper]="galleryTopConfig">
+      
+      <div class="swiper-wrapper">
+        
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/fa07aa7b-0936-42a4-8b24-8dc85d7204c0.jpg?aki_policy=xx_large">
+        </div>
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/fc882024-d547-45e7-b3a9-09b2bacc1257.jpg?aki_policy=x_large">
+        </div>
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/cba32ec2-bf1a-4759-a14b-5811ef31311b.jpg?aki_policy=x_large">
+        </div>
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/05ee8d99-95bd-4feb-b73c-d1e55f8dbcaa.jpg?aki_policy=x_large">
+        </div>
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/22a34033-5c3e-4d79-92e7-3ac6be0cc83e.jpg?aki_policy=x_large">
+        </div>
+      
+      </div> <!-- swiper-wrapper -->
+      
+        <div class="swiper-button-next swiper-button-white"></div>
+        <div class="swiper-button-prev swiper-button-white"></div>
+    </div> <!-- gallery-top -->
+    
+    <div class="swiper-container gallery-thumbs" #galleryThumbs [swiper]="galleryThumbsConfig">
+      
+      <div class="swiper-wrapper">
+        
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/fa07aa7b-0936-42a4-8b24-8dc85d7204c0.jpg?aki_policy=small">
+        </div>
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/fc882024-d547-45e7-b3a9-09b2bacc1257.jpg?aki_policy=small">
+        </div>
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/cba32ec2-bf1a-4759-a14b-5811ef31311b.jpg?aki_policy=small">
+        </div>
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/05ee8d99-95bd-4feb-b73c-d1e55f8dbcaa.jpg?aki_policy=small">
+        </div>
+        <div class="swiper-slide">
+          <img src="https://a0.muscache.com/im/pictures/22a34033-5c3e-4d79-92e7-3ac6be0cc83e.jpg?aki_policy=small">
+        </div>
+      
+      </div> <!--swiper-wrapper-->
+  
+    </div> <!-- gallery-thumbs -->
+  
+  </div> <!-- all-wrpper -->
+
+</div> <!-- back-drop -->
