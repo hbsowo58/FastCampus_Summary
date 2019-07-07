@@ -1,5 +1,5 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0501.md"> 5월1일 float에 대하여 <br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0502.md"> 5월2일 <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0502.md"> 5월2일 식별자<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0503.md"> 5월3일 변수,연산자 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0507.md"> 5월4일 객체지향 프로그래밍,객체,프로토타입,프로토타입 체인 <br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0507.md"> 5월7일 연산자,조건문,형변환 <br>
