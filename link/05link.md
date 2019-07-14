@@ -16,7 +16,7 @@
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0522.md"> 5월22일 클래스<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0523.md"> 5월23일 DOM<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0524.md"> 5월24일 이벤트<br>
-<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0525.md"> 5월25일 <br>
+<a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0525.md"> 5월25일 this<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0526.md"> 5월26일 실행컨텍스트<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0527.md"> 5월27일 TODO V1<br>
 <a href="https://github.com/hbsowo58/FastCampus_Summary/blob/master/Contents/2019-05/0528.md"> 5월28일 TODO V2<br>
